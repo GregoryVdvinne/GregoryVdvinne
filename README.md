@@ -1,4 +1,4 @@
-- Hi, I’m Gregory Vander Vinne. I work in analytics (mostly causal inference and data visualization). 
+- Hi, I’m Gregory Vander Vinne. I work in analytics / data science doing things like causal inference, data visualization, and forecasting. 
 - I love sports, especially soccer (football) and ice hockey. Some of the data visualizations that I create for fun are related to sports.
 - You can check out my website at https://gregoryvdvinne.github.io/index.html
 - You can check out my LinkedIn at https://www.linkedin.com/in/gregory-vander-vinne/?originalSubdomain=ca
